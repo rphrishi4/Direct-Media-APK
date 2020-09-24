@@ -1,6 +1,6 @@
 # Direct Media
- 
-Direct media is an Android app which helps to find direct index of files searched.
+ Get instant downloadable link of any media
+Direct media is an Android app  helps to find direct index of file searched.
 
 ## Installation
 
